@@ -4,6 +4,10 @@ public class forLoops {
 
     public static void main(String[] args) throws InterruptedException {
 
+        //DİPNOT :
+        //BREAK -->  break out of a loop(STOP)
+        //CONTİNUE --> skip current iteration of a loop(SKIP)
+
         //while içindeki koşum doğru olana kadar sonsuz dönebilir fakat for döngülerinde döngümüzü istediğimiz miktarda döndürebiliriz.
 
         Scanner scanner = new Scanner(System.in);
